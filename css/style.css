@@ -56,14 +56,17 @@ h4{
 
 }
 
-#first-head {
-     margin-top: 0px; !important
+#first {
+     margin-top: 0px !important;
+     line-height: 0px;
+     font-size: 30px;
+     
 }
 
-h2 {
-    font-size: 30px; 
-    margin-top: 60px;
-    line-height: 0px;
+.title {
+     font-size: 30px;
+     margin-top: 60px;
+     line-height: 0px;
 }
 
 
@@ -72,6 +75,21 @@ img {
      display: block;
      margin-left: auto;
      margin-right: auto;
+}
+
+p {
+     font-size: 12px;
+}
+
+h6 {
+     color: #bbbbbb;
+     font-size: 12px;
+}
+
+.caption {
+     border-bottom: 1px solid;
+     border-color: #bbbbbb;
+     margin-block-start: 0px;
 }
 
 #divider {
@@ -86,6 +104,11 @@ img {
      background: white;
      width: 30%;
      float: left;
+}
+
+a {
+     color: #ED6E4E;
+     text-decoration: none;
 }
 
 
