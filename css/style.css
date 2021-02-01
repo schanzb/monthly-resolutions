@@ -77,6 +77,10 @@ img {
      margin-right: auto;
 }
 
+.sideheader {
+     font-size: 20px !important;
+}
+
 p {
      font-size: 12px;
 }
@@ -104,11 +108,37 @@ h6 {
      background: white;
      width: 30%;
      float: left;
+     padding: 20px;
 }
 
 a {
      color: #ED6E4E;
      text-decoration: none;
+}
+
+blockquote {
+     border-left: 3px solid;
+     border-color: #bbbbbb;
+     padding: 5px;
+     margin-left: 15px;
+     font-style: italic;
+     font-size: 12px;
+}
+
+.sideheader {
+     font-size: 20px;
+}
+
+#author {
+     font-size: 16px;
+}
+
+li {
+     line-height: 20px;
+}
+
+#footer {
+     font-size: 16px !important;
 }
 
 
