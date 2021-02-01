@@ -30,9 +30,22 @@ body {
      font-family: 'Lato', sans-serif;
      line-height: 1.7; /* line-height is unit-less */
      font-size: 100%;
+     margin: auto;
+     width: 1000px;
+     padding: 10px;
     }  
 /*----------------------------------------------------------------------------- 
 03=MAIN  
 -----------------------------------------------------------------------------*/
+
+
+h1 {
+     font-size: 60px;
+     margin-bottom: 0px;
+}
+
+h4{
+     margin-top: 0px;
+}
 
 
