@@ -109,6 +109,7 @@ h6 {
      width: 30%;
      float: left;
      padding: 20px;
+     margin-left: 15px;
 }
 
 a {
@@ -139,6 +140,11 @@ li {
 
 #footer {
      font-size: 16px !important;
+}
+
+#chrisPic{
+     float: left;
+     border-radius: 50%;
 }
 
 
